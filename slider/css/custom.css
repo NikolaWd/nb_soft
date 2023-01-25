@@ -1,0 +1,19 @@
+h1 {
+    height: 200px;
+    width: 350px;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+ul li {
+    margin: 1.5rem 0 0 0;
+    display: inline-block;
+    list-style: none;
+}
+
+.container {
+    height: fit-content;
+}
+
+
